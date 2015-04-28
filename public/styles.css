@@ -1,0 +1,57 @@
+
+
+body {
+  font-family: Verdana;
+  /*To enable external links:*/
+  pointer-events: all;
+}
+
+.bars {
+  background-color: black;
+  height: 110px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 50px;
+  text-indent: 50px;
+  color: white;
+  display: inline;
+}
+
+.main {
+
+
+}
+
+img {
+  padding-top: 25px;
+  height: 50px;
+  width: 36px;
+
+}
+
+
+.node {
+    cursor: pointer;
+  }
+
+  .node circle {
+    fill: #fff;
+    stroke: black;
+    stroke-width: 3px;
+  }
+
+  .node text {
+    font-size: 14px;
+  /*  font-family: "Helvetica Neue", Helvetica;*/
+  }
+
+  .link {
+    fill: none;
+    stroke: #EBEBEB;
+    stroke-width: 2px;
+  }
+
