@@ -131,11 +131,6 @@ function update(source) {
           return "underline";
         }
     })
-    // .style("color", function(d){ 
-    //     if(d.url){
-    //       return "blue";
-    //     }
-    // })
     .on("click", function(d) { 
       if(d.url){
       window.open(d.url); 
@@ -224,11 +219,6 @@ function update(source) {
 
 // Toggle children on click.
 function click(d) {
-  //Work to remove sibling on click
-  // if(d.sibling){
-  // console.log(d.sibling.node);
-  //   d.sibling.node.exit();
-  // }
   if (d.children) {
   d._children = d.children;
   d.children = null;
