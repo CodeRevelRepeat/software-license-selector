@@ -3,7 +3,7 @@ var treeData = [
     "name": "Let's Get Started",
     "parent": "null",
     "bottom": false,
-    "icon": "copyrightsymbol.jpg",
+    "icon": "copyrightsymbol1.jpg",
     "_children": [
 
     //Level 2
@@ -77,7 +77,7 @@ var treeData = [
             //Level 5
 
                 {
-                  "name": "No license needed.  You will have default copyright protection. Be aware of any terms of service you opt into if you post your code on sites like github.",
+                  "name": "No license needed.  You will have default copyright protection. Be aware of any terms of service you opt into if you post your code on sites like GitHub.",
                   "parent": "You are not selling or distributing",
                   "bottom": true,
                                }
