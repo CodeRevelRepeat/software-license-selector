@@ -77,7 +77,7 @@ var treeData = [
             //Level 5
 
                 {
-                  "name": "No license needed.  You will have default copyright protection. Be aware of any terms of service you opt into if you post your code on sites like GitHub.",
+                  "name": "No license needed.  You will have default copyright protection. Be aware of any terms of service you opt into if you post your code on sites like GitHub.  You should place a statement on your work similar to: \"Copyright [YEAR], [NAME]. All rights reserved. Unauthorized distribution of any code contained herein is prohibited.\"",
                   "parent": "You are not selling or distributing",
                   "bottom": true,
                                }

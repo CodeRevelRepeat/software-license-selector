@@ -26,7 +26,7 @@ root.y0 = 0;
   
 update(root);
 
-d3.select(self.frameElement).style("height", "500px");
+d3.select(".main").style("height", "500px");
 
 function update(source) {
 
